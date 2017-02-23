@@ -21,3 +21,14 @@ Simple sitemap.xml building by Google standards
 [![GitHub issues](https://img.shields.io/github/issues/evheniy/sitemap-builder.svg)](https://github.com/evheniy/sitemap-builder/issues)
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/evheniy/sitemap-builder.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=%5Bobject%20Object%5D)
 
+## How to install
+
+    npm i -S sitemap-builder
+    
+## How to use
+
+In progress...
+
+## Links
+
+* [Google documentation](https://support.google.com/webmasters/answer/183668)
